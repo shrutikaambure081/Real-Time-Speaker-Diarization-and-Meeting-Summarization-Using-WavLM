@@ -142,14 +142,7 @@ The system provides:
 - Talk-time information
 - Evaluation metrics
 
-### Output Files
 
-```text
-outputs/
-├── *.rttm
-├── *.json
-└── final_results.csv
-```
 
 ## 12. Final Results
 
